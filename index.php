@@ -22,6 +22,9 @@ and open the template in the editor.
             function metodo2() {
                 // Código del Método
             }
+            function metodo3() {
+                // Código del Método
+            }
         ?>
     </body>
 </html>
