@@ -16,6 +16,9 @@ and open the template in the editor.
                     echo "Contructor de la clase";
                 }
             }
+            function metodo1() {
+                // Código del Método
+            }
         ?>
     </body>
 </html>
