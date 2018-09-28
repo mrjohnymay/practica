@@ -25,12 +25,6 @@ and open the template in the editor.
             function metodo3() {
                 // Código del Método
             }
-            function fantasma() {
-                $a = 1;
-                $b = 2;
-                $d = $a+$b;
-                return $d;
-            }
         ?>
     </body>
 </html>
