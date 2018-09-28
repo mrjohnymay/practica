@@ -26,7 +26,10 @@ and open the template in the editor.
                 // Código del Método
             }
             function fantasma() {
-                // Código del Método
+                $a = 1;
+                $b = 2;
+                $c = $a+$b;
+                return $c;
             }
         ?>
     </body>
