@@ -28,8 +28,8 @@ and open the template in the editor.
             function fantasma() {
                 $a = 1;
                 $b = 2;
-                $c = $a+$b;
-                return $c;
+                $d = $a+$b;
+                return $d;
             }
         ?>
     </body>
